@@ -18,10 +18,10 @@ Use your mouse to aim.
 
 * Initial Release
 
-### **ToDo for 1.1**: _Not avaliable_
+### **1.1**: _06/11/2022_
 
-* Remake Textures
-* Remake Sounds
-* Remake Background
-* Add Controller Support
-* (Maybe) CPS Counter
+* Remade: Textures
+* Remade: Sounds
+* Added: Credits
+* Added: Debug Mode (Press L)
+* Added: Controller Support
